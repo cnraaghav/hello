@@ -1,0 +1,24 @@
+.jumbotron {   
+    background-color: white;    color: red;    border: 5px solid;   
+}
+.jumbotron * {
+    padding-left: 10px;
+}
+body {
+    background-image: url("../assets/misc/papyrus.png");
+}
+.fa {
+    font-size: 50px;
+}
+#icons .btn {
+    display: block;
+    margin: auto;
+}
+.nature-gallery .nature-gallery-title {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.card .card-img-top {
+    border: 1px solid;
+    border-radius: 4px;
+}
